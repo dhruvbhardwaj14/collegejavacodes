@@ -77,8 +77,8 @@ int n=sc.nextInt();
 // int lastterm_b=1;
 // System.out.print(secondlastterm_a+" "+lastterm_b+" ");
 // fibo(n-2,secondlastterm_a,lastterm_b);
-// System.out.println(expo(x, n));
-System.out.println(expologn(x, n));
+System.out.println(expo(x, n));
+// System.out.println(expologn(x, n));
 sc.close();
 }
  

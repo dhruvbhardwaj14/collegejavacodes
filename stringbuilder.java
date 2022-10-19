@@ -24,6 +24,7 @@ Scanner sc= new Scanner(System.in);
 
 //reversing a string new logic
 StringBuilder s=new StringBuilder("Dhruv");
+s.indexOf("1");
 for (int i = 0; i < s.length()/2; i++) {
     int front=i;
     int back=s.length()-i-1;
